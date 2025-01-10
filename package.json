@@ -1,0 +1,39 @@
+{
+    "name": "vector-search",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "dependencies": {
+        "@qdrant/js-client-rest": "^1.12.0",
+        "@radix-ui/react-slot": "^1.0.2",
+        "@types/uuid": "^10.0.0",
+        "class-variance-authority": "^0.7.0",
+        "clsx": "^2.0.0",
+        "dotenv": "^16.4.7",
+        "lodash": "^4.17.21",
+        "lucide-react": "^0.294.0",
+        "next": "^14.2.23",
+        "postcss-import": "^16.1.0",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "sonner": "^1.2.4",
+        "tailwind-merge": "^2.0.0",
+        "tailwindcss-animate": "^1.0.7",
+        "uuid": "^11.0.4"
+    },
+    "devDependencies": {
+        "@types/lodash": "^4.17.14",
+        "@types/node": "^20.9.0",
+        "@types/react": "^18.2.37",
+        "@types/react-dom": "^18.2.15",
+        "autoprefixer": "^10.4.20",
+        "postcss": "^8.4.31",
+        "tailwindcss": "^3.3.5",
+        "typescript": "^5.2.2"
+    }
+}
