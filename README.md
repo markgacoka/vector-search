@@ -42,6 +42,7 @@ Custom approach using topic modeling, dense vectors, normalization, and cosine s
    ```env
    QDRANT_URL="your-qdrant-instance-url"
    QDRANT_API_KEY="your-qdrant-api-key"
+   QDRANT_COLLECTION_NAME="your-collection-name"
    ```
 
 4. **Start the Development Server**: 
